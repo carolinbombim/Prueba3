@@ -1,0 +1,58 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(img/fondo1.jpg);   
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+}
+
+a:hover{
+    background-color: rgba(135, 11, 121, 0.94);
+    border-color: black;
+    
+}
+a{
+    padding:100px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 18px;
+    
+}
+
+h1{
+    font-size: 70px;
+    color:rgb(22, 1, 114);
+    -webkit-text-stroke: 1px rgb(251, 251, 251);
+
+}
+p{
+    text-align: center;
+    
+}
+
+
+footer{
+    background-color: black;
+    text-align: center;
+    color: white;
+    padding: 10px;    
+
+}
+
+footer iframe{
+    position: relative;
+    margin: 2px;
+    padding: 10px;
+   
+}
+
+.borde{
+    margin-top: 20px;
+
+}
+
+    
+
+
+
